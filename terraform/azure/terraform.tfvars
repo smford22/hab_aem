@@ -1,0 +1,6 @@
+azure_sub_id = "b02e675a-cee0-49bd-a056-daa7ed05bf4e"
+azure_tenant_id = "a2b2d6bc-afe1-4696-9c37-f97a7ac416d7"
+azure_public_key_path = "/Users/scottford/.ssh/scottford.pub"
+azure_private_key_path = "/Users/scottford/.ssh/scottford"
+release_channel = "stable"
+group = "prod"

@@ -1,0 +1,7 @@
+aws_key_pair_file = "~/.ssh/scottford"
+aws_key_pair_name = "scottford"
+habitat_origin = "scottford"
+aws_profile = "chefsa"
+aws_region = "us-west-2"
+group = "prod"
+release_channel = "stable"
